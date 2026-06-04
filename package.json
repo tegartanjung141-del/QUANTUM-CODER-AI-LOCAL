@@ -1,0 +1,12 @@
+{
+  "name": "quantum",
+  "version": "0.1.0",
+  "description": "A local AI coding chat that verifies generated code by actually running it.",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "keywords": ["llm", "local", "code", "verification", "llama.cpp", "qwen", "execution"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
